@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-df = pd.read_csv('Classified Data', index_col=0)
+df = pd.read_csv('/Data/Classified Data', index_col=0)
 
 # scale features to similar size so features with large numbers aren't weighted more heavily
 from sklearn.preprocessing import StandardScaler

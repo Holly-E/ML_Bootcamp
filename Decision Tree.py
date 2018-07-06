@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-df = pd.read_csv('kyphosis.csv')
+df = pd.read_csv('Data/kyphosis.csv')
 
 #sns.pairplot(data = df, hue='Kyphosis')
 from sklearn.model_selection import train_test_split

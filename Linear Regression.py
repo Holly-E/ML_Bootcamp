@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-df = pd.read_csv('USA_HOUSING copy.csv')
+df = pd.read_csv('Data/USA_HOUSING copy.csv')
 
 """
 Within the SciView, click on glasses icon to view special variables
