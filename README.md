@@ -1,2 +1,17 @@
 # ML_Bootcamp
-Practice using different ML models in Python
+
+Linear Regression
+
+Logistic Regression
+
+KNN
+
+Decision Tree and Random Forest
+
+Support Vector Machines
+
+K Means Clustering
+
+NLP
+
+Tensorflow
