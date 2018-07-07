@@ -80,7 +80,7 @@ from sklearn.metrics import classification_report
 from sklearn.metrics import confusion_matrix
 #print(confusion_matrix(y_test, predictions))
 
-# Not sure if the following coefficients are relevant for logistical, instead convert to Odds Ratios??
+# Instead of coefficients for logistical convert to Odds Ratios
 # print(pd.DataFrame(lm.coef_[0], X_train.columns,columns=['Coeff']))
 
 plt.tight_layout() # So labels don't get cutoff
