@@ -12,6 +12,5 @@ Support Vector Machines
 
 K Means Clustering
 
-NLP
+Basic NLP
 
-Tensorflow
